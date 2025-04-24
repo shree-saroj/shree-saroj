@@ -28,7 +28,7 @@
 <a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
-<a target="_blank" href="https://github.com/shree-saroj/shree-saroj/blob/main/firebase-svgrepo-com.svg" style="display: inline-block;"><img src="https://github.com/shree-saroj/shree-saroj/blob/main/firebase-svgrepo-com.svg" alt="firebase" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/shree-saroj/shree-saroj/blob/main/assets/firebase-svgrepo-com.svg" style="display: inline-block;"><img src="https://github.com/shree-saroj/shree-saroj/blob/main/assets/firebase-svgrepo-com.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
@@ -54,3 +54,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/shree-saroj/shree-saroj/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/shree-saroj/shree-saroj/blob/output/github-snake.svg" />
 </picture>
+<p><img src="https://github.com/shree-saroj/shree-saroj/blob/main/assets/beardedGif.gif" alt="shree-saroj" /></p>
