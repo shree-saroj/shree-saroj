@@ -49,3 +49,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shree-saroj&show_icons=true&locale=en" alt="shree-saroj" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shree-saroj&show_icons=true&locale=en&layout=compact" alt="shree-saroj" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shree-saroj" alt="shree-saroj" /></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shree-saroj/shree-saroj/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/shree-saroj/shree-saroj/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/shree-saroj/shree-saroj/blob/output/github-snake.svg" />
+</picture>
