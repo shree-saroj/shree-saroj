@@ -12,13 +12,18 @@ I speak fluent C# and ASP.NET — languages where semicolons matter and null is 
 I’ve debugged servers at 3 AM, written JSON by hand (yes, even with single quotes — don’t judge me), and survived production fires fueled by defer statements that didn’t defer quite enough.
 
 I build stuff that scales… or at least doesn’t explode immediately.
+
 Efficient? When it counts.
+
 Scalable? Until it isn’t.
+
 Maintainable? We’ll negotiate that later
+
 Slightly sarcastic? Everywhere.
+
 Let’s build something that doesn’t break when someone types “Da Fyck” into a JSON field. </p>
 
-<h2>🚀 Languages and Tools I Use (Most of Them)</h2>
+<h2>🚀 My Keyboard Has Seen Things… Including This Tech Stack</h2>
 <p>
 I don’t just code — I survive in the ecosystem.
 From C and C++ where memory is your best friend (and worst enemy), to JavaScript and TypeScript where “it works” is the highest compliment, I’ve seen it all.
