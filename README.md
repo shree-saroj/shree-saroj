@@ -1,6 +1,40 @@
 <h1>Hi 👋, I'm Saroj Baral</h1>
-<p>I am a skilled Full-Stack Developer with extensive experience in hosting environments, mobile application development, and database management using both SQL and NoSQL technologies. Proficient in cloud platforms such as Azure and server management tools like IIS, I specialize in building robust solutions using C# and ASP.NET. With a strong foundation in algorithms, data structures, and hashing techniques, I deliver efficient and scalable software systems tailored to meet modern business needs.</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<p>👨‍💻 “Professional Code Whisperer & Occasional JSON Criminal”
+
+I’m that Full-Stack Dev who once hosted a website on IIS just to prove they still remember how to right-click → “Convert to Application.”
+I’ve tamed databases — both SQL (the organized librarian) and NoSQL (the “I’ll store your cat pics and your existential crisis in the same document”) — and lived to tell the tale.
+
+☁️ I’ve deployed things to Azure — sometimes on purpose.
+📱 I’ve built mobile apps that actually worked (at least until Apple released a new OS).
+🧮 I know my algorithms, data structures, and hashing — not just for interviews, but for when you need to find that one user who’s crashing your Go WebSocket pool (it was you, Dave. It’s always Dave).
+
+I speak fluent C# and ASP.NET — languages where semicolons matter and null is both a value and a lifestyle.
+I’ve debugged servers at 3 AM, written JSON by hand (yes, even with single quotes — don’t judge me), and survived production fires fueled by defer statements that didn’t defer quite enough.
+
+I build stuff that scales… or at least doesn’t explode immediately.
+Efficient? When it counts.
+Scalable? Until it isn’t.
+Maintainable? We’ll negotiate that later
+Slightly sarcastic? Everywhere.
+Let’s build something that doesn’t break when someone types “Da Fyck” into a JSON field. </p>
+
+<h2>🚀 Languages and Tools I Use (Most of Them)</h2>
+<p>
+I don’t just code — I survive in the ecosystem.
+From C and C++ where memory is your best friend (and worst enemy), to JavaScript and TypeScript where “it works” is the highest compliment, I’ve seen it all.
+
+Frontend? React, Next.js, SASS — I build interfaces that don’t make users want to scream.
+Backend? Node.js, Express, PHP, .NET, and yes — even ASP.NET when someone insists on legacy magic.
+Databases? SQL Server, MongoDB, Redis — I know which one to use when (and which one to avoid if you’re under time pressure).
+
+DevOps? Docker, Kubernetes, CI/CD pipelines — I deploy things, sometimes successfully.
+Cloud? Azure, but also anything that runs docker run.
+And yes — I’ve used Go. Not for fun. For survival. When the WebSocket pool started spawning zombie clients, I pulled out the Go hammer.
+
+I don’t care what language you throw at me — as long as it compiles, doesn’t leak memory, and lets me ship something before Monday.
+
+</p>
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
