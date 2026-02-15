@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saroj Baral</h1>
+<h1 align="center">Hi, I'm Saroj Baral</h1>
 <h3 align="center">Full-Stack Developer • Cloud & DevOps Enthusiast • Problem Solver</h3>
 
 <p align="center">
@@ -9,17 +9,17 @@ software that is maintainable, performant, and production-ready.
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 💼 Full-stack developer with strong experience across frontend, backend, and infrastructure  
-- ☁️ Experienced in deploying and managing applications on Azure and container platforms  
-- 🧠 Solid foundation in algorithms, data structures, and system design  
-- 🔧 Comfortable debugging complex production issues under pressure  
-- 🚀 I value clean architecture, pragmatic solutions, and shipping on time  
+- Full-stack developer with strong experience across frontend, backend, and infrastructure  
+- Experienced in deploying and managing applications on Azure and container platforms  
+- Solid foundation in algorithms, data structures, and system design  
+- Comfortable debugging complex production issues under pressure  
+- I value clean architecture, pragmatic solutions, and shipping on time  
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages**  
 C • C++ • C# • Go • JavaScript • TypeScript • Python • PHP
@@ -42,17 +42,17 @@ Firebase • Vercel • Heroku • Electron • Flutter
 
 ---
 
-### 🏗 What I Focus On
+### What I Focus On
 
-✔ Building scalable APIs  
-✔ Real-time systems & WebSockets  
-✔ Database design & performance  
-✔ Cloud deployments  
-✔ Turning messy requirements into working software  
+**Building scalable APIs**
+**Real-time systems & WebSockets**  
+**Database design & performance**
+**Cloud deployments**
+**Turning messy requirements into working software**
 
 ---
 
-### ⚡ Where to Find Me
+### Where to Find Me
 
 <p align="center">
   <a target="_blank" href="https://x.com/im_camping_rn">
