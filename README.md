@@ -44,11 +44,11 @@ Firebase • Vercel • Heroku • Electron • Flutter
 
 ### What I Focus On
 
-**Building scalable APIs**
+**Building scalable APIs**  
 **Real-time systems & WebSockets**  
-**Database design & performance**
-**Cloud deployments**
-**Turning messy requirements into working software**
+**Database design & performance**  
+**Cloud deployments**  
+**Turning messy requirements into working software**  
 
 ---
 
